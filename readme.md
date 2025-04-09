@@ -8,5 +8,6 @@ GitHub Action to implement a CI/CD workflow to automaticly test, build and push 
 2. [Automated Builds Complete Demo](https://youtu.be/PZVT1IOC0Zo)
 
 ## Screenshots
-  Image published in your Docker hub account:
+
 1.  Put the screenshot of your image in your Docker account here.
+![Image published in Docker hub account](Docker_hub_image.png)
